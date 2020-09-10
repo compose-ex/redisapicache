@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.16.2",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "redis": "^2.8.0"
   }
 }
